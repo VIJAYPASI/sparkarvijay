@@ -1,4 +1,7 @@
 // These load the modules / tells spark that these will be needed
+
+//Write your code here
+
 const Scene = require('Scene');
 const Materials = require('Materials');
 const NativeUI = require('NativeUI');
