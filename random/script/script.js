@@ -36,6 +36,9 @@ Promise.all([
 
  // Materials, if you add or remove buttons make sure these values in results
 //reflect this.
+
+//Please refer to the material library and docs for proper import
+
  const matone = results[4];
  const mattwo = results[5];
  const matthree = results[6];
